@@ -1,0 +1,10 @@
+bim
+fn+insert
+
+init
+:wq
+
+
+
+
+git remote -v
